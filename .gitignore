@@ -40,7 +40,6 @@ yarn-error.log
 testem.log
 /typings
 token.json
-ws-positions.json
 
 # System Files
 .DS_Store

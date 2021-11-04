@@ -1,0 +1,253 @@
+[
+    {
+        "currency": "USD",
+        "security_type": "equity",
+        "symbol": "AAPL",
+        "name": "Apple Inc",
+        "exchange": "NASDAQ",
+        "quantity": 4,
+        "book_value": 518.57,
+        "price": 148.4323,
+        "current_value": 593.73,
+        "profit": {
+            "net": 228.52,
+            "percent": 43.99999999999999
+        },
+        "netProfit": 228.52,
+        "percentProfit": 43.99999999999999,
+        "sector": "Technology"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "BNS",
+        "name": "Bank Of Nova Scotia",
+        "exchange": "TSX",
+        "quantity": 13,
+        "book_value": 749.16,
+        "price": 81.82,
+        "current_value": 1063.66,
+        "profit": {
+            "net": 314.5,
+            "percent": 41.99999999999999
+        },
+        "netProfit": 314.5,
+        "percentProfit": 41.99999999999999,
+        "sector": "Financial Services"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "CTC.A",
+        "name": "Canadian Tire Corp., Ltd. (Class A)",
+        "exchange": "TSX",
+        "quantity": 2,
+        "book_value": 236.1,
+        "price": 179.79,
+        "current_value": 359.58,
+        "profit": {
+            "net": 123.48,
+            "percent": 52
+        },
+        "netProfit": 123.48,
+        "percentProfit": 52,
+        "sector": "Consumer Cyclical"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "ENB",
+        "name": "Enbridge Inc",
+        "exchange": "TSX",
+        "quantity": 7,
+        "book_value": 287.84,
+        "price": 52.42,
+        "current_value": 366.94,
+        "profit": {
+            "net": 79.1,
+            "percent": 27
+        },
+        "netProfit": 79.1,
+        "percentProfit": 27,
+        "sector": "Energy"
+    },
+    {
+        "currency": "USD",
+        "security_type": "equity",
+        "symbol": "MRNA",
+        "name": "Moderna Inc",
+        "exchange": "NASDAQ",
+        "quantity": 5,
+        "book_value": 890.66,
+        "price": 334.31,
+        "current_value": 1671.55,
+        "profit": {
+            "net": 1212.65,
+            "percent": 136
+        },
+        "netProfit": 1212.65,
+        "percentProfit": 136,
+        "sector": "Healthcare"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "REI.UN",
+        "name": "RioCan Real Estate Investment Trust",
+        "exchange": "TSX",
+        "quantity": 32,
+        "book_value": 499.15999999999997,
+        "price": 22.29,
+        "current_value": 557.25,
+        "profit": {
+            "net": 181.5,
+            "percent": 48
+        },
+        "netProfit": 181.5,
+        "percentProfit": 48,
+        "sector": "Real Estate"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "T",
+        "name": "Telus Corp.",
+        "exchange": "TSX",
+        "quantity": 12,
+        "book_value": 272.03999999999996,
+        "price": 28.4,
+        "current_value": 170.4,
+        "profit": {
+            "net": 34.02,
+            "percent": 25
+        },
+        "netProfit": 34.02,
+        "percentProfit": 25,
+        "sector": "Communication Services"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "exchange_traded_fund",
+        "symbol": "VFV",
+        "name": "Vanguard S&P 500 Index ETF",
+        "exchange": "TSX",
+        "quantity": 23,
+        "book_value": 1772.8400000000001,
+        "price": 101.11,
+        "current_value": 1617.76,
+        "profit": {
+            "net": 361.6,
+            "percent": 29.000000000000004
+        },
+        "netProfit": 361.6,
+        "percentProfit": 29.000000000000004,
+        "sector": "ETF"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "cryptocurrency",
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "quantity": 0.005261,
+        "book_value": 153.4,
+        "price": 75454.5,
+        "current_value": 396.97,
+        "profit": {
+            "net": 243.57,
+            "percent": 159
+        },
+        "netProfit": 243.57,
+        "percentProfit": 159,
+        "sector": "Cryptocurrency"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "AEM",
+        "name": "Agnico Eagle Mines Ltd",
+        "exchange": "TSX",
+        "quantity": 2,
+        "book_value": 157.24,
+        "price": 65.72,
+        "current_value": 131.44,
+        "profit": {
+            "net": -25.8,
+            "percent": -16.000000000000004
+        },
+        "netProfit": -25.8,
+        "percentProfit": -16.000000000000004,
+        "sector": "Basic Materials"
+    },
+    {
+        "currency": "CAD",
+        "security_type": "equity",
+        "symbol": "CNR",
+        "name": "Canadian National Railway Co.",
+        "exchange": "TSX",
+        "quantity": 3,
+        "book_value": 392.17,
+        "price": 164.59,
+        "current_value": 493.77,
+        "profit": {
+            "net": 101.6,
+            "percent": 26
+        },
+        "netProfit": 101.6,
+        "percentProfit": 26,
+        "sector": "Industrials"
+    },
+    {
+        "currency": "USD",
+        "security_type": "equity",
+        "symbol": "FB",
+        "name": "Meta Platforms Inc (Class A)",
+        "exchange": "NASDAQ",
+        "quantity": 1,
+        "book_value": 302.7,
+        "price": 328.8167,
+        "current_value": 328.82,
+        "profit": {
+            "net": 111.05,
+            "percent": 37.000000000000014
+        },
+        "netProfit": 111.05,
+        "percentProfit": 37.000000000000014,
+        "sector": "Communication Services"
+    },
+    {
+        "currency": "USD",
+        "security_type": "equity",
+        "symbol": "KO",
+        "name": "Coca-Cola Co",
+        "exchange": "NYSE",
+        "quantity": 5,
+        "book_value": 323.57,
+        "price": 56.365,
+        "current_value": 281.83,
+        "profit": {
+            "net": 31.06,
+            "percent": 10.000000000000009
+        },
+        "netProfit": 31.06,
+        "percentProfit": 10.000000000000009,
+        "sector": "Consumer Defensive"
+    },
+    {
+        "currency": "USD",
+        "security_type": "equity",
+        "symbol": "V",
+        "name": "Visa Inc (Class A)",
+        "exchange": "NYSE",
+        "quantity": 2,
+        "book_value": 534.75,
+        "price": 212.08,
+        "current_value": 424.16,
+        "profit": {
+            "net": -1.03,
+            "percent": 0
+        },
+        "netProfit": -1.03,
+        "percentProfit": 0,
+        "sector": "Financial Services"
+    }
+]
