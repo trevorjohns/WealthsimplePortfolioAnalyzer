@@ -1,0 +1,42 @@
+<mat-button-toggle-group
+[multiple]="true"
+  #group="matButtonToggleGroup"
+  [value]="['symbol', 'current_value']">
+
+  <mat-button-toggle value="symbol">
+    <span>Symbol</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="name">
+    <span>Name</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="price">
+    <span>Price</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="book_value">
+    <span>Book Value</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="current_value">
+    <span>Current Value</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="netProfit">
+    <span>Profit $</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="percentProfit">
+    <span>Profit %</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="sector">
+    <span>Sector</span>
+  </mat-button-toggle>
+
+  <mat-button-toggle value="quantity">
+    <span>Quantity</span>
+  </mat-button-toggle>
+
+</mat-button-toggle-group>

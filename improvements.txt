@@ -1,0 +1,2 @@
+not able to toggle symbol column 
+text goes green when positive and red when negative
