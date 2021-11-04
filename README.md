@@ -1,36 +1,21 @@
-# WsWebsite
+## Overview
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+The home route will take you to a table showing your positions. You can add/remove columns to focus on specfic qualities, then sort to see the best and the worst performers
 
-## Development server
+![table](https://github.com/trevorjohns/WealthsimplePortfolioAnalyzer/blob/main/table.PNG)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The /graph route will give you a pie chart breakdown of the sectors that you are invested in
 
-## Code scaffolding
+![graph](https://github.com/trevorjohns/WealthsimplePortfolioAnalyzer/blob/main/graph.PNG)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## How to setup
 
-## Build
+clone/download the repo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+run `npm install` to download the dependencies
 
-## Running unit tests
+naviagate to the login.js file at the root and update the email/password varibles with your wealthsimple login information
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+run `npm run setup` to initialize the server with your data, you'll be prompted for a one-time password from your email
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-
-npm install
-
-update email/password in login.js
-
-npm run setup
-
-ng serve
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
