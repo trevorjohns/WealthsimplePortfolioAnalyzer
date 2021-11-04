@@ -14,8 +14,9 @@ clone/download the repo
 
 run `npm install` to download the dependencies
 
-naviagate to the login.js file at the root and update the email/password varibles with your wealthsimple login information
+The repo is set up with sample positions, if you wish to see your own please follow these steps:
 
+naviagate to the login.js file at the root and update the email/password varibles with your wealthsimple login information, then
 run `npm run setup` to initialize the server with your data, you'll be prompted for a one-time password from your email
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
